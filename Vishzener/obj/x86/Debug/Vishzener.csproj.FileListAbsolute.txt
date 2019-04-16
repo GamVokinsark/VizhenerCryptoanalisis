@@ -1,0 +1,9 @@
+D:\Projects\Vishzener\Vishzener\bin\Debug\Vishzener.exe
+D:\Projects\Vishzener\Vishzener\bin\Debug\Vishzener.pdb
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\Vishzener.Form1.resources
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\Vishzener.Properties.Resources.resources
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\Vishzener.exe
+D:\Projects\Vishzener\Vishzener\obj\x86\Debug\Vishzener.pdb
